@@ -1,0 +1,17 @@
+.Title {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 25px;
+}
+
+.Recipes {
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: yellow;
+    display: inline-block;
+    height: auto;
+    box-sizing: border-box;
+    width: 200px;
+    background-color: orange;
+    border: 3px solid rgb(200, 238, 33);
+    padding: 10px;
+    margin: 30px 0 10px ;
+}
